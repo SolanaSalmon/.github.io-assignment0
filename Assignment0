@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	</head>
+
+	<body>
+		
+		<h1> <strong> Solana Salmon </strong> </h1>
+
+		<hr> 
+			 
+		<img src="me.jpg" alt="Solana"/>
+				
+		<div class="move"> <p> <strong> Cell: </strong> 1-876-555-0211 <p>
+		<p> <strong> Email: </strong> solana_salmon@hotmail.com </p>
+				
+		 <p> <em> Flexible and persuasive individual poised to contribute planning and organizing, numeracy and computing skills, 
+					with the ability and desire to learn to provide added value to your organization currently pursuing a bachelor 
+					of science in the information technology. 
+		</em> </p> </div>
+				
+		 <h3>  <strong> Education: </div> </strong></h3>
+				
+		<div class="space" id="indent"> <p>
+		 
+					 University of the West Indies 2014- present
+			
+					<br> Bridgeport High School 2007-2014.
+					<br> Naggo Head Primary School 2001 -2007.
+
+					<br> Faith Temple Basic School 1998 – 2001.
+			
+					</div>
+		 
+				</p>
+
+				 <p><h3> <strong> Skills: </strong> </h3> <div class="space" id="indent"> <p> Knowledge in the use of Microsoft Word, Excel, PowerPoint, Publisher and Access 
+				 </div> </p> </p>
+
+				<h3> <strong> Experience: </strong> </h3>
+
+				<div class="space" id="indent"> <p> 
+					
+
+						<ul>
+
+							<li> Cashier at Tendy Beauty Supplies </li>
+
+							<li> Waitress at John's Restaurant </li>
+							
+		<li> Freelance Painter</li>
+							
+		<li>  Freelance Singer</li>
+						
+		</ul> 
+					
+				</div> </p>
+				
+		<h3> <strong> Hobbies: </strong> </h3>
+
+				 <div class="space" id="indent"><p>
+
+					<ul>
+						
+						<li> Singing </li>
+						
+						<li> Drawing </li>
+
+						<li> Painting </li>
+						
+						<li> Playing Video Games </li>
+
+					</ul>
+
+				</div> </p>
+
+				<h3>  <strong> Reference: </strong>  </h3> 
+				<div class="space" id="indent"> <p>Available on request </p> </div>
+
+	</body>
+</html>
