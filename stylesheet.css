@@ -1,0 +1,36 @@
+.border{
+	border-left: 3px solid black
+
+}
+
+body{
+	background-color:#C6E2FF;
+
+}
+
+.move{
+	padding-right: 450px;
+
+
+}
+
+.h3{
+	border-left:5px solid black;
+}
+img{
+	height: 200px; 
+	width:150px; 
+	right:70px;
+	top:45px;
+	position:absolute;
+	clear:left;
+	transform: rotate(-25deg);
+}
+.space{
+	border-left: 5px solid black;
+}
+
+#indent{
+	padding-left: 100px;
+
+}
